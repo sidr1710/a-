@@ -79,7 +79,7 @@ Each question lists the **emotion** it aims for and the **clip** it should produ
 ### Act 7: Legacy and the handoff
 22. "Nalanda and Gurukul: what does education in India look like in 20 years if you win?" → *inspiration*
 23. "One piece of advice for a middle-class 25-year-old in Mumbai with a laptop and ₹10,000?" → *hope* → **Clip 9**
-24. "What would you tell *me* as I start this series?" → *mentor moment, emotional close* → **Clip 10**
+24. **The closing ritual: see Section 10** (replaces the plain "What would you tell me?" question) → *mentor moment, open loop* → **Clip 10**
 25. **Off camera, but filmed:** "Who is one person you respect whom I should interview next?" (starts the SOHK referral chain)
 
 **Backup questions** (if an answer is flat): "Give me a specific example." · "What did that cost you?" · "What would you do differently?" · "What number proves it?"
@@ -182,3 +182,52 @@ These are built from his *own* story and frameworks, so no other interviewer can
 - **Follow-up prompts:** "Say more." · "What did that cost you?" · "Give me one real example." · "Are you sure?"
 - **Keep the questions short and read them word for word.** Explaining a question kills the tension.
 - **Spread the signature questions out,** with at most one per Act from Section 3, so the interview doesn't feel like an interrogation.
+
+---
+
+## 10. The closing ritual: "The Sealed Letter"
+
+"What would you tell me as I start this series?" is a good question, but every podcast asks some version of it. This closing turns it into a **3-minute scene with a promise the audience waits for**. It builds on SOHK's biggest retention lesson: create a challenge or a journey, so the viewer wants to know how it ends.
+
+### The sequence (film it last, after the reversal question Q22)
+
+**Beat 1: The warning** *(tension, 30–45 sec)*
+> "Most mentors give advice. I want the opposite. **What's the mistake you're *sure* I'm going to make?**"
+
+This works better than "what's your advice" because a prediction has stakes. The audience will watch to see if he's right.
+
+**Beat 2: The guru dakshina** *(meaning, 45–60 sec)*
+> "In the Gurukul, the student offered dakshina when the learning was complete. You've taught me for [X years]. **What dakshina do you want from me, and it can't be money?**"
+
+Whatever he asks for (e.g. "help 1,000 people use AI honestly"), **accept it on camera**: "Done. That's my promise." The mentor becomes a witness to your public vow, and it links back to signature question 1.
+
+**Beat 3: The sealed letter** *(the open loop, 60–90 sec)*
+Take out a card, a pen and an envelope.
+> "One last thing. I'd like you to write me a note, something I'm only allowed to open **on camera, at Episode 100**. Don't tell me what it says."
+
+- Film him writing in **silence**: a close-up of his hand, then his face thinking. No music until the envelope is sealed.
+- He seals it and hands it to you. Ask just one thing: **"Without telling me what's in it, why did you write that?"**
+- Final shot: you hold the envelope to the camera. On-screen text: **"Opening this at Episode 100."**
+
+**End card (voiceover):** *"Episode 1. 99 to go. Let's see if he was right."*
+
+### Why this ending works
+| Principle | How the ritual uses it |
+|---|---|
+| **Curiosity gap** (Loewenstein) | The unread letter is a question left open for the whole series |
+| **Journey + challenge** (SOHK's YouTube lesson) | "99 to go" turns a single video into a story with an ending |
+| **Stakes** | His prediction (Beat 1) and your vow (Beat 2) give viewers something to hold you to |
+| **Cultural resonance** | Guru dakshina is instantly understood in India, and it's your AI × Dharma brand at its best |
+| **Easy to share** | "My mentor wrote me a letter I can't open for 99 episodes" is a Short that will likely spread by itself |
+
+### Shorts from this scene
+- "My Mentor Wrote Me a Letter I Can't Open Until Episode 100"
+- "I Asked My Mentor What Mistake I'll Make. His Answer Scared Me" *(use only if the answer really is strong)*
+- "He Asked for Guru Dakshina, and It Wasn't Money"
+
+### Production notes
+- **Get his agreement without spoiling it:** before the shoot, tell him "there's a small closing ritual that involves writing a note" so he isn't caught off guard, but don't give him the details.
+- **Props:** a good-quality card and envelope, ideally with your aiwithsid wax seal or logo. Keep it in a visible place in your future videos as a recurring visual reminder.
+- **Film the handover with 2 cameras** (hands close-up and a wide shot).
+- **Fallback if he doesn't want to write:** ask him to record a 30-second voice note on your phone that you won't play until Episode 100.
+- **Keep the promise.** Store the envelope safely and actually open it at Episode 100. That future episode becomes an event in its own right, and you can invite him back to open it with you.
