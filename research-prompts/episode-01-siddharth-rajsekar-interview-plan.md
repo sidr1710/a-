@@ -133,3 +133,52 @@ Each question lists the **emotion** it aims for and the **clip** it should produ
 - **The AI section (Act 4) makes you the obvious "AI person"** to his 50K-member audience, who are exactly your ICP (coaches and creators).
 - **The Dharma section (Act 6) establishes your distinct lane** (AI × values) on day one.
 - **The referral question (Q25) starts your guest chain**, the way SOHK's first big interview led to others.
+
+---
+
+## 9. Signature questions: the ones nobody else asks
+
+These are built from his *own* story and frameworks, so no other interviewer can ask them the same way. Each one sets up a **tension** (a paradox, a thought experiment or a reversal) that he has to think through live, and that thinking-on-camera is what makes a clip worth sharing.
+
+**Pick the 5 marked ★ if you can only use five.** Ask the ones marked ⚠ gently and near the end, once there's trust. Tell him beforehand: "A few questions will be unusual. You can skip any of them."
+
+### A. Paradoxes (tensions inside his own story)
+1. ★ **"Gurukuls ran on guru dakshina: the student paid only after the learning was complete. If ILH ran on guru dakshina tomorrow, paying only after results, would it survive?"**
+2. ★ **"The Gita says you have a right to action, not to its fruits. Your community tracks ₹1,500 crore of fruits. How do you measure results without becoming attached to them?"** (This is the verse on your own website, so it doubles as your brand moment.)
+3. "You failed an exam system and now you design learning programmes. Which part of ILH would 17-year-old Siddharth have hated?"
+4. "Your book says *You Can Coach*. What percentage of people should *not* coach, and do you ever tell them?"
+5. "Omega Shift is anti-hustle, but your own story looks like hustle. Is the Omega Shift something you can only afford *after* the hustle?"
+
+### B. Thought experiments
+6. ★ **"An AI clone of you, trained on every video you've ever made, runs ILH for one year. What does it get right, and what's the one thing it gets dangerously wrong?"** (This question is where your AI niche and his wisdom meet.)
+7. "Rebuild from zero in Mumbai: no name, no audience, ₹10,000, and you're *not allowed to teach coaching*. What do you build?"
+8. "What would have to be true for you to shut ILH down?"
+9. "If ILH disappeared tomorrow, which member's life would change the *least*, and what does that tell you?"
+10. ★ **"You can send one 30-second voice note to the Siddharth who just lost his job in Bangalore. What do you say, and what do you deliberately *not* tell him?"**
+
+### C. Hidden mechanics (things only an insider would know)
+11. "What's one number you track that nobody else in the coaching industry tracks?"
+12. "What do your successful members do in their *first week* that the others don't?"
+13. "Which belief you held in 2018 turned out to be completely wrong?"
+14. "You started in music. What does a great course have in common with a great song: the hook, the chorus, the rhythm?"
+
+### D. Ego and honesty (⚠ ask near the end)
+15. ⚠ "When did you last feel like a fraud?"
+16. ⚠ "Which critic of yours do you secretly think is right?"
+17. ⚠ "What would Jayapataka Swami say about your marketing?"
+18. ⚠ "Coaches are accused of selling dreams. Which dream would you take back?"
+
+### E. The future of learning after AI
+19. "When anyone can generate a course in 10 minutes, what becomes scarce? What's the new expensive thing?"
+20. "YouTube made knowledge free. AI is making advice free. What's left to charge for?"
+21. "Will your grandchildren learn from a guru, a coach or a model, and which would you *want* them to learn from?"
+
+### F. Reversal (the closing clip)
+22. ★ **"You've trained thousands of people. Ask *me* one question, the one you'd ask a 20-something building AI in Mumbai."** Letting the guest interview the host is rare in Indian interviews, and it positions *you* in front of his audience.
+23. Safety net: "What's the question interviewers never ask you that you wish they would?"
+
+### How to ask them (this matters as much as the wording)
+- **Pause 5 seconds after he answers.** The best line often comes after the silence.
+- **Follow-up prompts:** "Say more." · "What did that cost you?" · "Give me one real example." · "Are you sure?"
+- **Keep the questions short and read them word for word.** Explaining a question kills the tension.
+- **Spread the signature questions out,** with at most one per Act from Section 3, so the interview doesn't feel like an interrogation.
