@@ -1,0 +1,43 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:Corm;src:url(assets/CormorantGaramond-600-normal.woff2);font-weight:600}
+@font-face{font-family:Corm;src:url(assets/CormorantGaramond-700-normal.woff2);font-weight:700}
+@font-face{font-family:Corm;src:url(assets/CormorantGaramond-500-italic.woff2);font-weight:500;font-style:italic}
+@font-face{font-family:Script;src:url(assets/Playball-400-normal.woff2)}
+@font-face{font-family:Mont;src:url(assets/Montserrat-400-normal.woff2);font-weight:400}
+@font-face{font-family:Mont;src:url(assets/Montserrat-600-normal.woff2);font-weight:600}
+:root{--cream:#f7f0e7;--ink:#1d2550;--pink:#c8216b;--gold:#b8925a}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:var(--cream)}
+.ad{position:relative;width:1080px;height:1350px;background:var(--cream);font-family:Mont,sans-serif;color:var(--ink)}
+.photo{position:absolute;right:0;top:0;width:560px;height:1180px;background:url(assets/kavita.jpg) 40% 20%/auto 1250px no-repeat}
+.photo::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--cream) 0%,rgba(247,240,231,.85) 9%,rgba(247,240,231,0) 30%)}
+.photo::after{content:"";position:absolute;left:0;right:0;bottom:0;height:220px;background:linear-gradient(0deg,var(--cream),rgba(247,240,231,0))}
+.name{position:absolute;z-index:2;right:48px;bottom:44px;text-align:right}
+.name b{display:block;font-family:Corm;font-weight:700;font-size:40px;color:var(--ink)}
+.name span{font-size:15px;letter-spacing:4px;text-transform:uppercase;color:var(--pink);font-weight:600}
+.text{position:absolute;left:72px;top:78px;width:530px}
+.logo{font-family:Script;font-size:70px;color:var(--pink);line-height:1}
+.logo sup{font-family:Mont;font-size:20px;vertical-align:top;position:relative;top:6px}
+.sub{margin-top:14px;font-weight:600;font-size:16px;letter-spacing:6px;text-transform:uppercase;display:flex;align-items:center;gap:14px}
+.sub i{display:block;height:2px;width:46px;background:var(--pink)}
+h1{margin-top:100px;font-family:Corm;font-weight:700;font-size:86px;line-height:.98;letter-spacing:-.5px}
+h1 em{display:block;margin-top:14px;font-style:italic;font-weight:500;color:var(--pink)}
+.quote{margin-top:80px;padding-left:28px;border-left:3px solid var(--gold);font-family:Corm;font-style:italic;font-weight:500;font-size:33px;line-height:1.25;color:#3a3f5e}
+.quote small{display:block;margin-top:14px;font-family:Mont;font-style:normal;font-weight:600;font-size:15px;letter-spacing:4px;text-transform:uppercase;color:var(--gold)}
+.philo{margin-top:70px;font-size:21px;line-height:1.5;color:#4a4f6a}
+.philo b{color:var(--ink)}
+.bar{position:absolute;left:0;right:0;bottom:0;height:170px;background:var(--ink);display:flex;align-items:center;justify-content:space-between;padding:0 72px}
+.btn{background:var(--pink);color:#fff;font-weight:600;font-size:24px;letter-spacing:3px;text-transform:uppercase;padding:26px 46px;border-radius:60px}
+.url{color:#fff;font-family:Corm;font-weight:600;font-size:44px;letter-spacing:.5px}
+.url small{display:block;font-family:Mont;font-weight:400;font-size:15px;letter-spacing:4px;text-transform:uppercase;color:#c9b38d;margin-bottom:6px;text-align:right}
+</style></head><body><div class="ad">
+<div class="photo"><div class="name"><b>Kavita Munot</b><span>Your facilitator</span></div></div>
+<div class="text">
+ <div class="logo">Heal Your Life<sup>®</sup></div>
+ <div class="sub"><i></i>Transformational Workshops</div>
+ <h1>Create peace<br>in your mind.<em>Find it in<br>your life.</em></h1>
+ <div class="quote">“When we create peace and harmony and balance in our minds, we will find it in our lives.”<small>Louise Hay</small></div>
+ <div class="philo">A guided workshop based on the<br>philosophy of <b>Louise Hay</b>.</div>
+</div>
+<div class="bar"><div class="btn">Book your seat</div><div class="url"><small>Learn more</small>www.kavitamunot.com</div></div>
+</div></body></html>
